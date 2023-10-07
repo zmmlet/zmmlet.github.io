@@ -1,0 +1,1 @@
+import{_ as t,Q as a,S as o,U as e,a4 as n}from"./framework-ca2498c6.js";const r={},s=e("h1",{id:"简介",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#简介","aria-hidden":"true"},"#"),n(" 简介")],-1),c=e("p",null,"一个前端的小博客",-1),_=[s,c];function d(i,l){return a(),o("div",null,_)}const f=t(r,[["render",d],["__file","intro.html.vue"]]);export{f as default};

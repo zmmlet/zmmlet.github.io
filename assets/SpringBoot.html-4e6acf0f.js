@@ -1,0 +1,1 @@
+import{_ as o,Q as t,S as r,U as e,a4 as a}from"./framework-ca2498c6.js";const n={},s=e("h1",{id:"springboot",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springboot","aria-hidden":"true"},"#"),a(" SpringBoot")],-1),c=[s];function i(_,d){return t(),r("div",null,c)}const l=o(n,[["render",i],["__file","SpringBoot.html.vue"]]);export{l as default};
